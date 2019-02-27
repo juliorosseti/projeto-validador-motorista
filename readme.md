@@ -6,4 +6,5 @@ Criar um validador de usuário/senha em `C`  com conexão ao banco de dados `MyS
 
 ### Usuário para validação inicial
 **Login**: `jose@motorista.com.br`
+
 **Senha**: `admin`
